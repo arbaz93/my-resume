@@ -1,1 +1,1 @@
-## Check it out live on [https://arbaz-yousaf.netlify.app]
+## Check it out live on [https://arbaz93.github.io/my-resume/]
